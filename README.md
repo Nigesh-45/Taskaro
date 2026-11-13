@@ -1,7 +1,7 @@
 # Taskaro — Personal Task Management Web Application
 
 - **Live Application URL:** [https://taskaro-8dd33.web.app](https://taskaro-8dd33.web.app) *(Replace with your live Vercel / Firebase Hosting URL)*
-- **Source Code Repository:** [https://github.com/nigesh20/Taskaro](https://github.com/nigesh20/Taskaro)
+- **Source Code Repository:** [https://github.com/Nigesh-45/Taskaro](https://github.com/Nigesh-45/Taskaro)
 
 Taskaro is a lightweight, high-responsiveness personal task management web application built with **Next.js (App Router)**, **Tailwind CSS**, **React Bits** (`Antigravity` 3D particle ring & `SlingButton` launcher), and **Firebase (Google Authentication + Cloud Firestore)**. Designed with a sleek monochrome **Black & White** Dark/Light theme, it focuses on zero-friction task tracking, strict per-user data isolation, and instant optimistic status transitions.
 
@@ -58,7 +58,7 @@ Where the prompt left implementation details open, the following product and eng
 
 ### Local Installation
 ```bash
-git clone https://github.com/nigesh20/Taskaro.git
+git clone https://github.com/Nigesh-45/Taskaro.git
 cd Taskaro
 npm install
 ```
